@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  background-image: url('fond.png');
+}
+
+h1 {
+  color: #61534B;
+  font-size: 80px;
+}
+h2{
+  color: #BDA790;
+  font-size: 60px;
+}
+
+.recipe_card {
+  text-align: center;
+  background-color: white;
+  border-radius: 25px;
+  border: 5px solid #61534B;
+  width: 60vw;
+  margin: auto;
+  padding: 20px;
+  margin-top: 20px;
+  font-size: 45px;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.ingrédients{
+  text-decoration: underline;
+}
+
+
+.les-ingrédients {
+  font-style: italic;
+}
+
+.la-recette{
+  text-align: justify;
+  font-size: 40px;
+}
+
+img {
+  width: 50vw;
+  border-radius: 5px;
+}
+
+
+.basdepage{
+  font-size: 2em;
+}
+
+.card_mousse{
+  background-color: white;
+}
